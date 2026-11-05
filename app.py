@@ -37,7 +37,7 @@ SOBRE = (
 EXPERIENCIAS = [
     {
         "cargo": "Bolsista de Iniciação Científica (PROBIC/FAPERGS)",
-        "org": "Universidade de Santa Cruz do Sul (UNISC)",
+        "org": "Universidade de Santa Cruz do Sul (UNISC) · Presencial",
         "data": "10/2026 – atual",
         "itens": [
             "Pesquisa: “Diagnóstico de tuberculose utilizando imagens de emissão de "
@@ -63,7 +63,7 @@ EXPERIENCIAS = [
     },
     {
         "cargo": "Analista de Dados – Estágio",
-        "org": "Analítica 3M",
+        "org": "Analítica 3M · Presencial",
         "data": "06/2025 – 10/2025",
         "itens": [
             "Análise e tratamento de dados vindos de APIs, ERPs, CRMs e bancos de "
@@ -74,7 +74,7 @@ EXPERIENCIAS = [
     },
     {
         "cargo": "AWS Cloud Data Engineer – Estágio",
-        "org": "Compass UOL",
+        "org": "Compass UOL · Remoto",
         "data": "12/2024 – 05/2025",
         "itens": [
             "Processos de ingestão, transformação e processamento de dados na AWS.",
